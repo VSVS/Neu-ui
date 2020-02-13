@@ -35,7 +35,7 @@ So what is the purpose of this project? What am I proposing? Ideally i'd like to
 ## Community
 Join our Spectrum chat group to discuss more into detail some of the ideas you have and the challenges we face if you're interested in contributing to this project or using it in the future. All are welcome! 
 
-<a href="http://bit.ly/2Hlpe8a">![Neu-ui Discord Channel](https://spectrum.imgix.net/communities/90cc8638-097b-4272-ac56-9a1474bc996d/ac0cfba1-22d2-4266-bcfa-9954bde92245-spectrum-neu-ui-chat.jpg?w=1280&h=384&dpr=2&q=100&expires=1577664000000&ixlib=js-1.4.1&s=6587c18424381d73f8b7e4bac8c834ed)
+<a href="http://bit.ly/2UQ5DoG">![Neu-ui Discord Channel](https://spectrum.imgix.net/communities/90cc8638-097b-4272-ac56-9a1474bc996d/ac0cfba1-22d2-4266-bcfa-9954bde92245-spectrum-neu-ui-chat.jpg?w=1280&h=384&dpr=2&q=100&expires=1577664000000&ixlib=js-1.4.1&s=6587c18424381d73f8b7e4bac8c834ed)
 </a>
 
 
