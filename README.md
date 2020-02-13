@@ -33,8 +33,9 @@ This one is interesting as solving this problem will solve a lot of other proble
 So what is the purpose of this project? What am I proposing? Ideally i'd like to develop a React based component framework for Neumorphism. I can see this becoming very popular in the future but in the mean time it's all for fun and learning. We will need to start at the documentation level like Materal.io to provide clarity and consistency for everyone and ultimately graduate to something like <a href="[https://material-ui.com/](https://material-ui.com/)">Material-Ui</a>. Who's up for the challenge? 🙋‍♂️🙋‍♀️
 
 ## Community
-Join our discord group to discuss more into detail some of the ideas you have and the challenges we face if you're interested in contributing to this project or using it in the future. All are welcome! 
-<a href="http://bit.ly/2Hlpe8a">![Neu-ui Discord Channel](https://discordapp.com/assets/bb408e0343ddedc0967f246f7e89cebf.svg)
+Join our Spectrum chat group to discuss more into detail some of the ideas you have and the challenges we face if you're interested in contributing to this project or using it in the future. All are welcome! 
+
+<a href="http://bit.ly/2Hlpe8a">![Neu-ui Discord Channel](https://spectrum.imgix.net/communities/90cc8638-097b-4272-ac56-9a1474bc996d/ac0cfba1-22d2-4266-bcfa-9954bde92245-spectrum-neu-ui-chat.jpg?w=1280&h=384&dpr=2&q=100&expires=1577664000000&ixlib=js-1.4.1&s=6587c18424381d73f8b7e4bac8c834ed)
 </a>
 
 
